@@ -14,7 +14,7 @@ MyChess is an interactive, two-player chess game that brings the classic board g
 
 - **Drag-and-Drop Functionality**  
   Move pieces effortlessly with intuitive drag-and-drop controls—no complicated inputs required.  
-  ![Drag-and-Drop Functionality](https://nikhil-nagar.vercel.app/assets/1-CoE2o3Ic.jpeg)
+  <img src="https://nikhil-nagar.vercel.app/assets/1-CoE2o3Ic.jpeg" alt="Drag-and-Drop Functionality" style="margin: 5px; width: 100px;">
 
 - **Real-Time Updates**  
   Experience fluid gameplay with dynamic, real-time board updates as moves are made.
@@ -25,11 +25,11 @@ MyChess is an interactive, two-player chess game that brings the classic board g
   - ❌ **Checkmate! You lose!**  
   - 🤝 **Stalemate! The game is a draw.**  
   - ⚠️ **The king is in check!**  
-  ![Checkmate Notification](https://nikhil-nagar.vercel.app/assets/2-Bc4sbdkj.jpeg)
+  <img src="https://nikhil-nagar.vercel.app/assets/2-Bc4sbdkj.jpeg" alt="Checkmate Notification" style="margin: 5px; width: 100px;">
 
 - **Real-Time Chat Feature**  
   Chat with your opponent during the game—share strategies, banter, or just catch up!  
-  ![Real-Time Chat](https://nikhil-nagar.vercel.app/assets/4-C1ZS7rlu.webp)
+  <img src="https://nikhil-nagar.vercel.app/assets/4-C1ZS7rlu.webp" alt="Real-Time Chat" style="margin: 5px; width: 100px;">
 
 ---
 
@@ -59,29 +59,13 @@ Socket.io powers the real-time magic of MyChess, enabling instant move updates a
 - **Benefits**:  
   - Ensures smooth, lag-free gameplay and communication across devices.
 
----
-
-## 📸 **Screenshots**
-See MyChess in action:  
-
-- **Drag-and-Drop Gameplay**  
-  ![Drag-and-Drop](https://nikhil-nagar.vercel.app/assets/1-CoE2o3Ic.jpeg)  
-
-- **Checkmate Alert**  
-  ![Checkmate](https://nikhil-nagar.vercel.app/assets/2-Bc4sbdkj.jpeg)  
-
-- **Real-Time Chat**  
-  ![Chat](https://nikhil-nagar.vercel.app/assets/4-C1ZS7rlu.webp)  
-
----
 
 ## 🛠️ **How to Play**
 1. **Visit the Website**  
-   Head to [MyChess Website](https://yourwebsite.com) on any device.  
+   Head to [MyChess Website](https://mychess-nc0n.onrender.com) on any device.  
 
-2. **Start or Join a Game**  
-   - Create a new game and share the unique game ID with your friend.  
-   - Or, enter an existing game ID to join.  
+2. **Wait for you friend **  
+   - When he come you both will be able to play. 
 
 3. **Play and Chat**  
    - Drag and drop pieces to make moves.  
@@ -97,12 +81,7 @@ Want to make MyChess even better? Here’s how:
 4. Push to the branch (`git push origin feature-branch`).  
 5. Submit a pull request.  
 
----
 
-## 📄 **License**
-This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📧 **Contact**
 - **Nikhil Nagar**  
