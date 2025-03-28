@@ -16,6 +16,9 @@ app.set("view engine" , 'ejs') ;
 const gameRoutes = require('./routes/gameRoutes') ;
 app.use('/',gameRoutes) ;
 
+app.get('/test', (req, res) => {
+  res.send('MyChess App is running');
+});
 
 const socketHandlers = require('./sockets/socketHandlers') ;
 socketHandlers(io);
