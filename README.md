@@ -14,7 +14,7 @@ MyChess is an interactive, two-player chess game that brings the classic board g
 
 - **Drag-and-Drop Functionality**  
   Move pieces effortlessly with intuitive drag-and-drop controls—no complicated inputs required.  
-  <img src="https://nikhil-nagar.vercel.app/assets/1-CoE2o3Ic.jpeg" alt="Drag-and-Drop Functionality" style="margin: 5px; width: 100px;">
+  <img src="https://nikhil-nagar.vercel.app/assets/1-CoE2o3Ic.jpeg" alt="Drag-and-Drop Functionality" style="margin: 5px; width: 500px;">
 
 - **Real-Time Updates**  
   Experience fluid gameplay with dynamic, real-time board updates as moves are made.
@@ -25,11 +25,11 @@ MyChess is an interactive, two-player chess game that brings the classic board g
   - ❌ **Checkmate! You lose!**  
   - 🤝 **Stalemate! The game is a draw.**  
   - ⚠️ **The king is in check!**  
-  <img src="https://nikhil-nagar.vercel.app/assets/2-Bc4sbdkj.jpeg" alt="Checkmate Notification" style="margin: 5px; width: 100px;">
+  <img src="https://nikhil-nagar.vercel.app/assets/2-Bc4sbdkj.jpeg" alt="Checkmate Notification" style="margin: 5px; width: 500px;">
 
 - **Real-Time Chat Feature**  
   Chat with your opponent during the game—share strategies, banter, or just catch up!  
-  <img src="https://nikhil-nagar.vercel.app/assets/4-C1ZS7rlu.webp" alt="Real-Time Chat" style="margin: 5px; width: 100px;">
+  <img src="https://nikhil-nagar.vercel.app/assets/4-C1ZS7rlu.webp" alt="Real-Time Chat" style="margin: 5px; width: 500px;">
 
 ---
 
